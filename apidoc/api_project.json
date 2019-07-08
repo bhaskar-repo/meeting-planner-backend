@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Documentation for the meeting planner application",
   "title": "Meeting Planner APIs",
-  "url": "http://planmeeting.in",
+  "url": "http://api.planmeeting.in",
   "sampleUrl": false,
   "defaultVersion": "0.0.0",
   "apidoc": "0.3.0",
