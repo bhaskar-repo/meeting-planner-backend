@@ -33,11 +33,11 @@ Meeting Planner
 
 Applications has mainly three modules
  
-  USER MODULE
-  MEETING MODULE
-  SHARED MODULE
+  * **USER MODULE** 
+  * **MEETING MODULE**
+  * **SHARED MODULE**
   
-  USER -> it includes sign up,login,requests,activities,friends,find friends functionalities
+  * USER -> it includes sign up,login,requests,activities,friends,find friends functionalities
 		signup -> during sign up user is able to sign up with country and country phone code.
 			   -> added validation for fields like email,password and mobile
 			   -> upon login user will be redirected to login page.
@@ -46,16 +46,16 @@ Applications has mainly three modules
 		-> upon login user will see his meetings organized by admin in calendar form
 		-> user can only see his meetings he can not make any updates for view there is a seperate view
 		
- MEETING -> Admin user is able to add,edit and delete meeting of the user
+ * MEETING -> Admin user is able to add,edit and delete meeting of the user
 		 -> Admin can edit any user's meeting.from users dashboard.
 		 -> Meetings are shown in calendar form with all functionalities added.
 		
-SHARED MODULE -> all the common things requred are kept here,
+ * SHARED MODULE -> all the common things requred are kept here,
 				-> header is kept in this module all the major actions have seperated with nav bar links
 				-> http header is a component when any error the user will be redirected to this page
 				-> hanled error with diffrent page.
 				
-Exra points -> 
+ * Exra points -> 
 			- > added icon for each action.
 
 note: i am storing my secretKey in database. need to add an entry for each db connection (secretKey: "") in globalcofig table
