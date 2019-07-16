@@ -24,7 +24,23 @@ This instructions will tell you how to clone this to your localhost and run it.
  > npm install
  ```
  above commands will pull project to your newly created folder. and npm install will add project dependencies.
- 
+ Note: index.js is the entry point to the node js application.
 ```
- 7. > node index.js
+ > node index.js
 ```
+
+## Built With
+
+* [NPM](https://www.npmjs.com/) - Most of the modules are used
+* [nodemailer](https://nodemailer.com/about/) - NPM module to send the mails
+* [apiDoc](http://apidocjs.com/) - NPM module to create the apiDoc and eventDoc
+* [nodejs](https://nodejs.org)- Node js to write back end
+
+## Authors
+
+* **Bhaskar Pawar** - *Initial work* - [bhaskarpawar](https://github.com/bhaskar-repo)
+* **Edwisor** - *Problem Statement* - [Edwisor](https://www.edwisor.com)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detailsg
