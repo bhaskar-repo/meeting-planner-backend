@@ -16,12 +16,12 @@ This instructions will tell you how to clone this to your localhost and run it.
  
  1. create new folder in your system
  2. open that folder in cmd or linux terminal and execute following command in sequence.
- ```
- 3. >git init
- 4. >git remote add origin https://github.com/bhaskar-repo/meeting-planner-backend.git
- 5. >git pull origin master
- 6. >npm install
  
+ ```
+ > git init
+ > git remote add origin https://github.com/bhaskar-repo/meeting-planner-backend.git
+ > git pull origin master
+ > npm install
  ```
  above commands will pull project to your newly created folder. and npm install will add project dependencies.
  
