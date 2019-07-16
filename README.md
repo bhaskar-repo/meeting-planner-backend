@@ -25,4 +25,6 @@ This instructions will tell you how to clone this to your localhost and run it.
  ```
  above commands will pull project to your newly created folder. and npm install will add project dependencies.
  
+```
  7. > node index.js
+```
