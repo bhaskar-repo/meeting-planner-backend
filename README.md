@@ -15,7 +15,7 @@ This instructions will tell you how to clone this to your localhost and run it.
 ### running locally
  
  1. create new folder in your system
- 2. open that folder in cmd or linux terminal and execute following command in sequence.
+ 2. open that folder in cmd or linux terminal and execute following commands in sequence.
  
  ```
  > git init
