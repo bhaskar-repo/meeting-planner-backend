@@ -44,3 +44,8 @@ This instructions will tell you how to clone this to your localhost and run it.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detailsg
+
+## Acknowledgments
+
+* Thanks for Edwisor to review this application.
+* I would like to thank whoever supported for implenting this back end for meeting planner application.
