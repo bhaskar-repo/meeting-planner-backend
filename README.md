@@ -8,5 +8,5 @@ This instructions will tell you how to clone this to your localhost and run it.
 
 # Prerequisites
  Note : you can skip installation steps if already installed in your system.
-  1. Node JS (how to install? <a href="#">NodeJs</a>)
+  1. Node JS (how to install? <a href="https://nodejs.org/en/download/">NodeJs</a>)
 
